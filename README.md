@@ -25,7 +25,7 @@
   <a href="mailto:alpallel.e@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
+### 📊 GitHubStats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=alpallel&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
