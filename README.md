@@ -2,7 +2,7 @@
 
 - 3rd semester Computer Science student @ Universitas Indonesia. </br>
 - Staff of Software Engineering Academy @ COMPFEST 18. </br>
-- Super Member @ Google Developer Groups on Campus Universitas Indonesia.
+- Super Member @ Google Developer Group on Campus Universitas Indonesia.
 
 ### 🛠️ Tech Stack
 
