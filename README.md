@@ -1,6 +1,6 @@
 ### 🚀 About Me
 
-- 3rd semester Computer Science student @ Universitas Indonesia. </br>
+- 2nd year Computer Science student @ Universitas Indonesia. </br>
 - Staff of Software Engineering Academy @ COMPFEST 18. </br>
 - Super Member @ Google Developer Group on Campus Universitas Indonesia.
 
